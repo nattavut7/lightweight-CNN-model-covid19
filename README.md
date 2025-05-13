@@ -15,9 +15,9 @@ This repository provides a complete implementation for a lightweight and accurat
 Your dataset folder should be structured as follows:
 
 dataset_path/
-├── COVID-19/
-├── Normal/
-└── Pneumonia/
+- COVID-19/
+- Normal/
+- Pneumonia/
 ## How to Run
 
 1. Update the `DATASET_PATH` variable in `efficientnetb0_qat.py` with your dataset path.
